@@ -158,6 +158,7 @@ sources:
     license: CC0-1.0
     url: https://sslbl.abuse.ch/blacklist/sslipblacklist.tar.gz
     checksum: false
+    deprecated: Deprecated by source on 2025-01-03.
 
   abuse.ch/feodotracker:
     summary: Abuse.ch Feodo Tracker Botnet C2 IP ruleset
